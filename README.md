@@ -1,5 +1,9 @@
 # 开发者技术文档 (Developers Guide) 
 
+- [FLON官网](https://flon.network) | [Flon Official Website](https://flon.network)
+- [FLON EVM Testnet](https://t-evm.flonscan.io) | [FLON EVM Mainnet](https://evm.flonscan.io)
+- [FLON WASM Testnet](https://t-wasm.flonscan.io) | [FLON WASM Mainnet](https://flonscan.io)
+
 ## 中文技术文档
 
 - [如何配置FLON EVM信息到小狐狸之类的EVM钱包](cn/如何配置FLON-EVM信息到小狐狸之类的EVM钱包.md)
