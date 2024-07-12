@@ -2,7 +2,7 @@
 
 ## 中文技术文档
 
-- 如何配置FLON EVM信息到小狐狸之类的EVM钱包
+- [如何配置FLON EVM信息到小狐狸之类的EVM钱包](./docs/cn/如何配置FLON EVM信息到小狐狸之类的EVM钱包.md)
 - 如何获取水龙头测试币
 - 如何部署ERC20合约
 - 部署UniSwap合约
