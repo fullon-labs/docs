@@ -1,0 +1,1 @@
+# How to config FLON EVM RPC into MetaMask etc EVM Wallets
