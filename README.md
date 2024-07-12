@@ -13,3 +13,5 @@
 - [如何从FLON EVM账户资产跨链到FLON WASM和反向操作](cn/如何从FLON-EVM账户资产跨链到FLON-WASM和反向操作.md)
   
 ## English Tech docs
+
+- [How to config FLON EVM RPC into MetaMask etc EVM Wallets](en/How_to_config_FLON_EVM_RPC_into_MetaMask_etc_EVM_Wallets.md)
