@@ -31,4 +31,4 @@
     - Devnet: https://devnet.evm.flonscan.io
     - Testnet: https://testnet.evm.flonscan.io
     - Mainnet: https://evm.flonscan.io
-- FullOn Snapots: https://snapshot.flon.network
+- FullOn Snapshots: https://snapshot.flon.network
