@@ -9,7 +9,7 @@
    | --------- | ----------------------------- | --------------------------- | ------ |
    | Network name  | flon-evm-test                 | flon-evm-main               | customizable |
    | RPC URL | https://t-evm-rpc.flonscan.io | https://evm-rpc.flonscan.io |        |
-   | Chain ID     | 当前15555 即将9600            | 9602                        |        |
+   | Chain ID     | 9600            | 9602                        |        |
    | Token | FLON                          | FLON                        |        |
    | Explorer URL | https://t-evm.flonscan.io/    | https://evm.flonscan.io/    | Optional   |
 
