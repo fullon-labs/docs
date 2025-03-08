@@ -1,10 +1,6 @@
 # Table of contents
 
 * [📣 公告栏](announcement/README.md)
-* [🧜🏻 赏金猎人计划](bug_bounty_program.md)
-* [🤹🏾 生态大使指南](ambassador/README.md)
-  * [什么是生态大使](ambassador/what_is_ecosystem_ambassador.md)
-  * [如何成为生态大使](ambassador/how_to_become_ambassador.md)
 * [🙋🏻‍♂️ 常见问题FAQ](faq/README.md)
   * [什么是FullOn](faq/what_is_fullon.md)
   * [FullOn的基础技术特性是哪些](faq/what_is_fullon_tech_spec.md)
@@ -14,3 +10,7 @@
   * [FullOn的虚拟机引擎是什么](faq/what_are_fullon_virtual_machines.md)
   * [FullOn的多链互操作性是什么](faq/what_is_fullon_interoperability.md)
   * [FullOn上面主要构建的应用生态是哪些](faq/what_are_fullon_ecosystems.md)
+* [🧜🏻 赏金猎人计划](bug_bounty_program.md)
+* [🤹🏾 生态大使指南](ambassador/README.md)
+  * [什么是生态大使](ambassador/what_is_ecosystem_ambassador.md)
+  * [如何成为生态大使](ambassador/how_to_become_ambassador.md)
