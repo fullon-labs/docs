@@ -1,17 +1,17 @@
-# How to move assets from `FLON EVM`to `FLON WASM` and vice versa
+# How to move assets from `FullOn EVM`to `FullOn WASM` and vice versa
 
-1. ## FLON WASM to FLON EVM
+1. ## Send tokens from FullOn WASM to FullOn EVM
 
-如果你在FullOn的测试网上有`FLON`测试代币, 那么你可以直接发送`FLON`到EVM合约地址(`flon.evm`), 同时把目标的EVM地址放到转账交易的`memo`字段。
+You can transfer your `FLON` token directly to the global EVM contract(`flon.evm`) with the memo filed filled with the target EVM address.
 
-举例如下：
+The command line example:
 
 ```shell
 ./fucli --wallet-url=http://127.0.0.1:6666 --url=https://evmapi-t.flon.network transfer bobtestaccou flon.evm "100.0000 FLON" "0x5B38Da6a701c568545dCfcB03FcB875f56beddC4"
 ```
 
-也可以从中心化交易所(例:币安)往`flon.evm`合约直接提取，但是要加上EVM地址作为相应的memo
+You can also withdraw FLON tokens from a CEX (E.g. Binance) by filling the to account as `flon.evm` and memo field with the EVM target address.
 
-2. ## 从FLON EVM到FLON
+2. ## Send tokens from FullOn EVM to FullOn WASM
 
-**FLON EVM跨链桥还在建设中**
+**FullOn EVM bridge under construction**
