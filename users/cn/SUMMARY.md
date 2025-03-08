@@ -1,6 +1,6 @@
 # Table of contents
 
-* [📣 Bulletin board](announcement/README.md)
+* [📣 公告栏](announcement/README.md)
 * [🧜🏻 赏金猎人计划](bug_bounty_program.md)
 * [🤹🏾 生态大使指南](ambassador/README.md)
   * [什么是生态大使](ambassador/what_is_ecosystem_ambassador.md)
