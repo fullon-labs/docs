@@ -7,6 +7,7 @@
   * [如何成为生态大使](ambassador/how_to_become_ambassador.md)
 * [🙋🏻‍♂️ 常见问题FAQ](faq/README.md)
   * [什么是FullOn](faq/what_is_fullon.md)
+  * [FullOn的基础技术特性是哪些](faq/what_is_fullon_tech_spec.md)
   * [FullOn的账户类型有哪些](faq/what_are_fullon_account_types.md)
   * [FullOn的资源模型如何](faq/what_is_fullon_resource_model.md)
   * [FullOn的通证经济学是什么](faq/what_is_fullon_tokenomics.md)
