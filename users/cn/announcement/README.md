@@ -1,4 +1,2 @@
+# Table of Contents
 
-# 📣公告栏
-
-在这里会发布所有FullOn区块链网络有关的最新讯息!
