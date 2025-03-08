@@ -13,3 +13,4 @@
   * [FullOn的通证经济学是什么](faq/what_is_fullon_tokenomics.md)
   * [FullOn的虚拟机引擎是什么](faq/what_are_fullon_virtual_machines.md)
   * [FullOn的多链互操作性是什么](faq/what_is_fullon_interoperability.md)
+  * [FullOn上面主要构建的应用生态是哪些](faq/what_are_fullon_ecosystems.md)
