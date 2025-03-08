@@ -1,3 +1,3 @@
-# FullOn官网公告栏
+# 📣 FullOn Bulletin Board
 
 
