@@ -15,4 +15,4 @@
 
 3. Initialize your first wallet and get the FLON EVM address
 
-4. Claim test tokens from [https://faucet.flon.network]
+4. Claim test tokens from [https://faucet.flon.network](https://faucet.flon.network)
