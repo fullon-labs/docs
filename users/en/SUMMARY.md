@@ -1,6 +1,6 @@
 # Table of contents
 
-* [📣公告栏](README.md)
+* [📣公告栏](announcement/README.md)
 * [cn](cn/README.md)
   * [👨‍👩‍👦‍👦用户指南](cn/faq/README.md)
     * [什么是FullOn？](cn/faq/shen-me-shi-fullon.md)
