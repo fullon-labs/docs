@@ -6,5 +6,5 @@
   * [什么是生态大使](ambassador/what_is_ecosystem_ambassador.md)
   * [如何成为生态大使](ambassador/how_to_become_ambassador.md)
 * [🙋🏻‍♂️ 常见问题FAQ](faq/README.md)
-  * [什么是FullOn？](faq/what_is_fullon.md)
+  * [什么是FullOn](faq/what_is_fullon.md)
   * [FullOn的账户类型有哪些](faq/what_are_fullon_account_types.md)
