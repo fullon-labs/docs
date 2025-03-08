@@ -8,3 +8,4 @@
 * [🙋🏻‍♂️ 常见问题FAQ](faq/README.md)
   * [什么是FullOn](faq/what_is_fullon.md)
   * [FullOn的账户类型有哪些](faq/what_are_fullon_account_types.md)
+  * [FullOn的资源模型如何](faq/what_is_fullon_resource_model.md)
