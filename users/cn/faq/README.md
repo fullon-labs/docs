@@ -1,3 +1,3 @@
-# 有关FullOn Protocol的重要概念
+# Table of Contents
 
 * [什么是FullOn？](what_is_fullon.md)
