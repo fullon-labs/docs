@@ -8,10 +8,10 @@
    |           | Testnet                        | Mainnet                        | Memo   |
    | --------- | ----------------------------- | --------------------------- | ------ |
    | Network name  | flon-evm-test                 | flon-evm-main               | customizable |
-   | RPC URL | https://t-evm-rpc.flonscan.io | https://evm-rpc.flonscan.io |        |
+   | RPC URL | https://testnet-rpc.evm.flon.network | https://rpc.evm.flon.network |        |
    | Chain ID     | 9600            | 9602                        |        |
    | Token | FLON                          | FLON                        |        |
-   | Explorer URL | https://t-evm.flonscan.io/    | https://evm.flonscan.io/    | Optional   |
+   | Explorer URL | https://testnet.evm.flonscan.io/    | https://evm.flonscan.io/    | Optional   |
 
 3. Initialize your first wallet and get the FLON EVM address
 
