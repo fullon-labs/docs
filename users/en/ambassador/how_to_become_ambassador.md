@@ -1,9 +1,9 @@
-# 如何申请成为FullOn的生态大使
+# How to become an Ambassador
 
-## FLON大使使命
-推广FullOn区块链的理念和价值，建设和维护好FullOn本地社区，宣扬Web3理念，提升FullOn生态共识，促进社区成员的参与，并最终促使整体生态的不断发展和繁荣。
+## FLON Ambassador Mission
+Promote the concepts and values ​​of the FullOn blockchain, build and maintain the FullOn local community, promote the Web3 concept, enhance the FullOn ecosystem consensus, promote the participation of community members, and ultimately promote the continuous development and prosperity of the overall ecosystem.
 
-## FLON大使权益
+## Benefits of becoming an FLON Ambassador 
 
-- 参与生态DAO治理
-- 获得ELON奖励
+- Participate in ecosystem DAO governance
+- Get ELON points rewards
