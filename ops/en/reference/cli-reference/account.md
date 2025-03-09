@@ -4,7 +4,7 @@
 **Good to know:** All the methods shown below are synced to an example OpenAPI file URL and are kept up to date automatically with changes to the API.
 {% endhint %}
 
-## User actions
+## account
 
 {% openapi src="https://petstore3.swagger.io/api/v3/openapi.json" path="/user/login" method="get" %}
 [https://petstore3.swagger.io/api/v3/openapi.json](https://petstore3.swagger.io/api/v3/openapi.json)
