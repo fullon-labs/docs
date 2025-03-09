@@ -13,6 +13,12 @@ Those who successfully reported such security bugs will be rewarded according to
 |-----------------------------------|----------------------------|----------------------------|
 | Unauthorized FLON token transfer or burn operation | FLON worth of 8K USD | FLON worth of 10K USD |
 | Unauthorized FLON inflation that is against what's scopped in White Paper | FLON worth of 20K USD | FLON worth of 30K USD |
+| Triggering infinite FullOn chain forks | FLON worth of 30K USD | FLON worth of 40K USD |
+| Able to modify POS votes or cause invalid amount of inflation tokens | FLON worth of 40K USD | FLON worth of 50K USD |
+| Causing financial losses in all FullOn core team deployed system or DAPP smart contracts | FLON worth of 10K USD | FLON worth of 30K USD |
+| Triggering forking of FullOn network but BP nodes are able to recover | FLON worth of 5K USD | FLON worth of 10K USD |
+| Under normal non-debug model, nodes would become unstable or even crashed due to some transansaction submitted | FLON worth of 1K USD | FLON worth of 1.5K USD |
+| Other security bugs | reward based on severity evaluation of the bugs | reward based on severity evaluation of the bugs |
 
 # Bug Report Flow
 
