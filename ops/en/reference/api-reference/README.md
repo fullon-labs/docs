@@ -1,6 +1,6 @@
 # API Reference
 
-Dive into the specifics of each API endpoint by checking out our complete documentation.
+Dive into the specifics of each JSON-RPC API endpoint by checking out our complete documentation.
 
 ## Pets
 
