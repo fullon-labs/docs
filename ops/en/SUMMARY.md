@@ -8,6 +8,7 @@
 * [CLI Reference](reference/cli-reference/README.md)
   * [Wallet](reference/cli-reference/wallet.md)
   * [Account](reference/cli-reference/account.md)
+  * [Transaction](reference/cli-reference/transaction.md)
 * [API Reference](reference/api-reference/README.md)
   * [Wallet](reference/api-reference/wallet.md)
   * [Account](reference/api-reference/account.md)
