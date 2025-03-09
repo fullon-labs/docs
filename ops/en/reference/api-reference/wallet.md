@@ -1,6 +1,6 @@
-# Pets
+# Wallet
 
-## Creating a new pet
+## Creating a new wallet
 
 {% openapi src="https://petstore3.swagger.io/api/v3/openapi.json" path="/pet" method="post" %}
 [https://petstore3.swagger.io/api/v3/openapi.json](https://petstore3.swagger.io/api/v3/openapi.json)

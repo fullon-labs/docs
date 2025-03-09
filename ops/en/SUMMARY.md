@@ -5,6 +5,9 @@
 
 ## Reference
 
+* [CLI Reference](reference/cli-reference/README.md)
+  * [Wallet](reference/api-reference/wallet.md)
+  * [Account](reference/api-reference/account.md)
 * [API Reference](reference/api-reference/README.md)
-  * [Pets](reference/api-reference/pets.md)
-  * [Users](reference/api-reference/users.md)
+  * [Wallet](reference/api-reference/wallet.md)
+  * [Account](reference/api-reference/account.md)
