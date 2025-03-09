@@ -6,5 +6,5 @@ Dive into the specifics of each CLI usage by checking out our complete documenta
 
 - OS: `Linux`
 - CLI: `focli` with aliases:
-  - mainnet: `mcli`
-  - testnet: `tcli`
+  - mainnet: use `mcli` for `focli -u $mainnetNodeUrl`
+  - testnet: use `tcli` for `focli -u $testnetNodeUrl`
