@@ -1,17 +1,33 @@
 # Wallet
 
-## Creating a new wallet
+## Create a new wallet
 
-{% openapi src="https://petstore3.swagger.io/api/v3/openapi.json" path="/pet" method="post" %}
-[https://petstore3.swagger.io/api/v3/openapi.json](https://petstore3.swagger.io/api/v3/openapi.json)
-{% endopenapi %}
+```tcli create wallet -n $wallet_name```
 
-## Updating a pet
+## load a wallet
 
-{% openapi src="https://petstore3.swagger.io/api/v3/openapi.json" path="/pet" method="put" %}
-[https://petstore3.swagger.io/api/v3/openapi.json](https://petstore3.swagger.io/api/v3/openapi.json)
-{% endopenapi %}
+```tcli open wallet -n $wallet_name```
 
-{% hint style="info" %}
-**Good to know:** These API methods were auto-generated from an example OpenAPI file. You'll see that it's not editable – that's because the contents are synced to a URL! Any time the linked file changes, the documentation will change too.
-{% endhint %}
+## unlock a wallet
+
+```tcli wallet unlock -n $wallet_name --password $password```
+
+## list wallets
+
+```tcli wallet list```
+
+## list all wallet keys
+
+```tcli wallet keys```
+
+## list wallet public and private keys
+
+```tcli wallet private_keys -n test --password $password```
+
+## Create public & private key
+
+```tcli  create key --to-console```
+
+## Import private key
+
+```tcli wallet import -n $wallet_name --private-key $priv_key```
