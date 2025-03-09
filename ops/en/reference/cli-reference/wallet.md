@@ -1,6 +1,6 @@
 # Wallet
 
-## Create a new wallet
+## create a new wallet
 
 ```tcli create wallet -n $wallet_name```
 
@@ -24,10 +24,10 @@
 
 ```tcli wallet private_keys -n test --password $password```
 
-## Create public & private key
+## create public & private key
 
 ```tcli  create key --to-console```
 
-## Import private key
+## import private key
 
 ```tcli wallet import -n $wallet_name --private-key $priv_key```
