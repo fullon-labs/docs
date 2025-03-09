@@ -1,5 +1,4 @@
-# 什么是FullOn？
+# What is FullOn？
 
 
-
-FullOn是一条具有去中心化、超高性能、低延迟、快速确认和多链交互等特性集于一体的一层公链网络。
+FullOn Network is a decentralized, scalable, low-latency layer-1 blockchain with fast finality and multi-chain interopperability.
