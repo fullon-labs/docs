@@ -64,6 +64,6 @@ tcli get table $code $scope $table --index $indexNum --key-type $keyType $option
 
 # Samples:
 #
-#    tcli get table amax.xchain amax.xchain xinorders --index 2 --key-type i64 -r -l1
+#    tcli get table flon.xchain flon.xchain xinorders --index 2 --key-type i64 -r -l1
 #
 ```
