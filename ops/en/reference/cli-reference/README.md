@@ -6,5 +6,13 @@ Dive into the specifics of each CLI usage by checking out our complete documenta
 
 - OS: `Linux`
 - CLI: `focli` with aliases:
-  - mainnet: use `mcli` for `focli -u $mainnetNodeUrl`
-  - testnet: use `tcli` for `focli -u $testnetNodeUrl`
+  - mainnet: use alias `mcli` for `focli -u $mainnetNodeUrl`
+  - testnet: use alias `tcli` for `focli -u $testnetNodeUrl`
+
+```
+## look for cli help info
+tcli -h
+
+tcli $sub_cmd -h
+tcli $sub_cmd1 $sub_cmd2 -h
+```
