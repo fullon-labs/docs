@@ -17,6 +17,7 @@ same as deploy
 tcli push action $contract_name $action_name $params -p $issuer
 
 ## Samples:
+#
 #   tcli  push action currencyview view '["userb"]' -p usera
 #
 ```
@@ -38,7 +39,8 @@ tcli get currency stats $token_contract $symbol
 tcli get abi $contract
 
 # Samples:
-#   `tcli get abi flon.xchain`
+#
+#   tcli get abi flon.xchain
 #
 ```
 
@@ -47,6 +49,7 @@ tcli get abi $contract
 tcli get table $code $scope $table $options
 
 # Samples:
+#
 #    tcli get table flon.xchain flon.xchain global
 #    tcli get table flon.xchain flon.xchain xinaddrmap
 #    tcli get table flon.xchain flon.xchain coins -l 1 -r
@@ -60,6 +63,7 @@ tcli get table $code $scope $table $options
 tcli get table $code $scope $table --index $indexNum --key-type $keyType $options
 
 # Samples:
+#
 #    tcli get table amax.xchain amax.xchain xinorders --index 2 --key-type i64 -r -l1
 #
 ```
