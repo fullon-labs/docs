@@ -1,6 +1,6 @@
 # Welcome!
 
-## Welcome to Oerators Guide
+## Welcome to FullOn Operators Guide
 
 Welcome to FullOn Node Operators Guide! Here you'll find all the documentation you need to get up and running the FullOn blockchain node and be able to interact with it for either account state retrieval or transaction submission.
 
