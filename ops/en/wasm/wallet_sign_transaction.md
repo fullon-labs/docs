@@ -1,33 +1,43 @@
-# Wallet
+# API: Wallet
 
-## create a new wallet <a name="create"></a>
+## sign_transaction
+Given the signature transaction of a transaction array, the public key and Chain ID are required
 
-```tcli create wallet -n $wallet_name```
+### Usage example
 
-## load a wallet
+```shell
+## API
+curl http://localhost:8889/v1/wallet/sign_transaction -X POST -d '[{"ref_block_num":21453,"ref_block_prefix":3165644999,"expiration":"2017-12-08T10:28:49","scope":["initb","initc"],"read_scope":[],"messages":[{"code":"currency","type":"transfer","authorization":[{"account":"initb","permission":"active"}],"data":"000000008093dd74000000000094dd74e803000000000000"}],"signatures":[]}, ["EOS6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV"], ""]'```
 
-```tcli open wallet -n $wallet_name```
+```
 
-## unlock a wallet
+### Result example
 
-```tcli wallet unlock -n $wallet_name --password $password```
-
-## list wallets
-
-```tcli wallet list```
-
-## list all wallet keys
-
-```tcli wallet keys```
-
-## list wallet public and private keys
-
-```tcli wallet private_keys -n test --password $password```
-
-## create public & private key
-
-```tcli  create key --to-console```
-
-## import private key
-
-```tcli wallet import -n $wallet_name --private-key $priv_key```
+```json
+{
+  "ref_block_num": 21453,
+  "ref_block_prefix": 3165644999,
+  "expiration": "2017-12-08T10:28:49",
+  "scope": [
+    "initb",
+    "initc"
+  ],
+  "read_scope": [],
+  "messages": [
+    {
+      "code": "currency",
+      "type": "transfer",
+      "authorization": [
+        {
+          "account": "initb",
+          "permission": "active"
+        }
+      ],
+      "data": "000000008093dd74000000000094dd74e803000000000000"
+    }
+  ],
+  "signatures": [
+    "1f393cc5ce6a6951fb53b11812345bcf14ffd978b07be386fd639eaf440bca7dca16b14833ec661ca0703d15e55a2a599a36d55ce78c4539433f6ce8bcee0158c3"
+  ]
+}
+```

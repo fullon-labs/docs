@@ -1,33 +1,19 @@
-# Wallet
+# API: Wallet
 
-## create a new wallet <a name="create"></a>
+## wallet_set_timeout
+Set the wallet auto lock timeout (in seconds).
 
-```tcli create wallet -n $wallet_name```
+### Usage example
 
-## load a wallet
+```shell
 
-```tcli open wallet -n $wallet_name```
+## API
+curl http://localhost:8889/v1/wallet/set_timeout -X POST -d '10'
 
-## unlock a wallet
+```
 
-```tcli wallet unlock -n $wallet_name --password $password```
+### Result example
 
-## list wallets
-
-```tcli wallet list```
-
-## list all wallet keys
-
-```tcli wallet keys```
-
-## list wallet public and private keys
-
-```tcli wallet private_keys -n test --password $password```
-
-## create public & private key
-
-```tcli  create key --to-console```
-
-## import private key
-
-```tcli wallet import -n $wallet_name --private-key $priv_key```
+```
+{}
+```

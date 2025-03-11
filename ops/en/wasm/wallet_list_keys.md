@@ -1,33 +1,20 @@
-# Wallet
+# API: Wallet
 
-## create a new wallet <a name="create"></a>
+## list_keys
+List all private keys in all wallets.
 
-```tcli create wallet -n $wallet_name```
+### Usage example
 
-## load a wallet
+```shell
 
-```tcli open wallet -n $wallet_name```
+## API
+curl http://localhost:8889/v1/wallet/list_keys
 
-## unlock a wallet
+```
 
-```tcli wallet unlock -n $wallet_name --password $password```
+### Result example
 
-## list wallets
+```
+[["FO6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV","5KQwrPbwdL6PhXujxW37FSSQZ1JiwsST4cqQzDeyXtP79zkvFD3"]]
 
-```tcli wallet list```
-
-## list all wallet keys
-
-```tcli wallet keys```
-
-## list wallet public and private keys
-
-```tcli wallet private_keys -n test --password $password```
-
-## create public & private key
-
-```tcli  create key --to-console```
-
-## import private key
-
-```tcli wallet import -n $wallet_name --private-key $priv_key```
+```
