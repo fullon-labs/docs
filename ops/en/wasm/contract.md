@@ -82,3 +82,29 @@ tcli get table $code $scope $table --index $indexNum --key-type $keyType $option
 #    tcli get table flon.xchain flon.xchain xinorders --index 2 --key-type i64 -r -l1
 #
 ```
+
+## get_table_rows
+
+Get smart contract data.
+
+### Usage examples
+```shell
+curl  https://t1.flon.network/v1/chain/get_table_rows -X POST -d '{"scope":"inita", "code":"currency", "table":"account", "json": true}'
+$ curl  https://t1.flon.network/v1/chain/get_table_rows -X POST -d '{"scope":"inita", "code":"currency", "table":"account", "json": true, "lower_bound":0, "upper_bound":-1, "limit":10}'
+
+```
+
+### Result example
+```json
+{
+  "rows": [
+    {
+      "account": "account",
+      "balance": 1000
+    }
+  ],
+  "more": false
+}
+```
+
+## abi_json_to_bin
