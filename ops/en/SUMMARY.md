@@ -3,7 +3,7 @@
 * [Welcome!](README.md)
 * [Quick Start](quick-start.md)
 
-## FullOn Node RPC Reference
+## FullOn Reference
 
 * [WASM API Reference](wasm/README.md)
   * [wallet::create](wasm/wallet_create.md)
