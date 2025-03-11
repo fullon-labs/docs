@@ -6,7 +6,7 @@
 ## FullOn Reference
 
 * [WASM API Reference](wasm/README.md)
-  * [wallet::create](wasm/wallet.md#create)
+  * [wallet::create](wasm/wallet_create.md)
   * [wallet::open](wasm/wallet_open.md)
   * [wallet::lock_all](wasm/wallet_lock_all.md)
   * [wallet::unlock](wasm/wallet_unlock.md)
