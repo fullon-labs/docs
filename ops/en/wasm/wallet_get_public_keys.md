@@ -7,7 +7,7 @@ List all public keys in all wallets.
 
 ```shell
 
-# API
+## API
 curl http://localhost:8889/v1/wallet/get_public_keys
 
 ```
