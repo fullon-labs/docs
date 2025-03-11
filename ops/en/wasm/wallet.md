@@ -1,6 +1,6 @@
 # Wallet
 
-## create a new wallet
+## create a new wallet <a name="create"></a>
 
 ```tcli create wallet -n $wallet_name```
 
