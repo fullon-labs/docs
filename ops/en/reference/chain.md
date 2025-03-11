@@ -1,8 +1,10 @@
-# Chain
+# CLI/API: Chain
 
 ## get_info
 
-### Usage: Get the latest information related to the node.
+Get the latest information related to the node.
+
+### Usage example
 
 ```shell
 
@@ -11,7 +13,7 @@ curl https://t1.flon.network/v1/chain/get_info
 
 ```
 
-### get_info result example
+### Result example
 ```json
 {
   "server_version": "825cffe9",
@@ -39,9 +41,16 @@ curl https://t1.flon.network/v1/chain/get_info
 
 ## get_block
 
-### Usage: Get block information.
+Get block information.
+
+### Usage example
 
 ```shell
+## CLI
+
+tcli get block 5
+tcli get block 0000000592d0ac5f87ef02d564479330ed97002dbaae58f2c4affb22bd6fd00c
+
 ## API
 curl  https://t1.flon.network/v1/chain/get_block -X POST -d '{"block_num_or_id":5}'
 
@@ -49,7 +58,7 @@ curl  https://t1.flon.network/v1/chain/get_block -X POST -d '{"block_num_or_id":
 
 ```
 
-### get_block result example
+### Result example
 ```json
 {
   "timestamp": "2025-01-22T08:02:04.000",
