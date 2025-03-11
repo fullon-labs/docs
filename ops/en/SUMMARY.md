@@ -24,7 +24,7 @@
   * [chain::abi_bin_to_json](wasm/chain_abi_bin_to_json.md)
   * [chain::push_transaction](wasm/chain_push_transaction.md)
   * [chain::get_required_keys](wasm/chain_get_required_keys.md)
-* [WASM CLI Reference](wasm/README.md)
+* [CLI Reference](wasm/README.md)
   * [account](wasm/cli_account.md)
   * [contract](wasm/cli_contract.md)
   * [transaction](wasm/cli_transaction.md)
