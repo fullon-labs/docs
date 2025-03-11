@@ -106,5 +106,3 @@ $ curl  https://t1.flon.network/v1/chain/get_table_rows -X POST -d '{"scope":"in
   "more": false
 }
 ```
-
-## abi_json_to_bin
