@@ -1,8 +1,10 @@
 # Welcome!
 
-## Welcome to MyAPI
+## Welcome to Oerators Guide
 
-Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
+Welcome to FullOn Node Operators Guide! Here you'll find all the documentation you need to get up and running the FullOn blockchain node and be able to interact with it for either account state retrieval or transaction submission.
+
+For those application developers, you may want to get yourself more familiar with API reference in addition to CLI reference.
 
 ## Want to jump right in?
 
