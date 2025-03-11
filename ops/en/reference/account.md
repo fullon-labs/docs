@@ -4,11 +4,13 @@
 **Good to know:** FullOn protocol supports abstract accounts that all other digital assets or on-chain permissions are associated with.
 {% endhint %}
 
-## get_account
-Get account information
+## get account info
 
-### get_account usage example
 ```shell
+## CLI
+tcli get account $account_name
+
+## API
 curl  https://t1.flon.network/v1/chain/get_account -X POST -d '{"account_name":"flon"}'
 ```
 
@@ -90,9 +92,18 @@ curl  https://t1.flon.network/v1/chain/get_account -X POST -d '{"account_name":"
 }
 ```
 
+## register an account
 
-## Creating users
+```shell
+## CLI
+tcli system newaccount $creator --transfer $acct $pubkey -p ${creator}@active
 
-{% openapi src="https://petstore3.swagger.io/api/v3/openapi.json" path="/user/createWithList" method="post" %}
-[https://petstore3.swagger.io/api/v3/openapi.json](https://petstore3.swagger.io/api/v3/openapi.json)
-{% endopenapi %}
+```
+
+## get account balance
+
+```shell
+## CLI
+tcli get currency balance $token_contract $account $symbol
+
+```
