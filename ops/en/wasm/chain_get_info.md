@@ -2,7 +2,7 @@
 
 ## get_info
 
-Get the latest information related to the node.
+Get the latest information related to the FullOn node.
 
 ### Usage example
 

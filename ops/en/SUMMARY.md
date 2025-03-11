@@ -5,7 +5,7 @@
 
 ## FullOn Reference
 
-* [WASM API Reference](wasm/README.md)
+* [WASM Reference](wasm/README.md)
   * [wallet::create](wasm/wallet_create.md)
   * [wallet::open](wasm/wallet_open.md)
   * [wallet::lock_all](wasm/wallet_lock_all.md)
@@ -25,11 +25,6 @@
   * [chain::push_transaction](wasm/chain_push_transaction.md)
   * [chain::get_required_keys](wasm/chain_get_required_keys.md)
 * [WASM CLI Reference](wasm/README.md)
-  * [wallet::create](wasm/wallet_create.md#cli)
-  * [wallet::open](wasm/wallet_open.md#cli)
-  * [wallet::unlock](wasm/wallet_unlock.md#cli)
-  * [wallet::list](wasm/wallet_list.md#cli)
-  * [wallet::list_keys](wasm/wallet_list_keys.md#cli)
-  * [wallet::create_key](wasm/wallet_create_key.md)
-  * [wallet::import_key](wasm/wallet_import_key.md)
-  * [chain::get_account](wasm/chain_get_account.md#cli)
+  * [account](wasm/cli_account.md)
+  * [contract](wasm/cli_contract.md)
+  * [transaction](wasm/cli_transaction.md)
