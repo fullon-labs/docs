@@ -1,6 +1,6 @@
 # Earlybird Community user free registration program
 
-Good news！The earlybirds of FullOn public chain community users are now blessed!
+💥💥💥Good news！The earlybirds of FullOn public chain community users are now blessed!🚀🚀🚀
 
 In order to foster faster development of FullOn public chain community, the FullOn foundation team has decided to provide the following free registration plan:
 
