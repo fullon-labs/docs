@@ -1,6 +1,7 @@
 # Table of contents
 
 * [📣 公告栏](announcement/README.md)
+  * [生态用户早鸟免费账户注册计划](announcement/early_bird_free_registration_program.md)
 * [🙋🏻‍♂️ 常见问题FAQ](faq/README.md)
   * [什么是FullOn](faq/what_is_fullon.md)
   * [FullOn的基础技术特性是哪些](faq/what_is_fullon_tech_spec.md)

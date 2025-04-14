@@ -1,6 +1,7 @@
 # Table of contents
 
 * [📣 Bulletin Board](announcement/README.md)
+  * [Earlybird Free Registration Program](announcement/early_bird_free_registration_program.md)
 * [🙋🏻‍♂️ FullOn FAQ](faq/README.md)
   * [What is FullOn](faq/what_is_fullon.md)
   * [What are FullOn's basic properties](faq/what_is_fullon_tech_spec.md)
