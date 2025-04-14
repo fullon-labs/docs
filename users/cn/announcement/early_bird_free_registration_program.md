@@ -9,7 +9,7 @@
 2. 激活用的$FLON币全部来自社区空投部分；
 3. 免费激活后的账户可以体验最多10次FLON转账交易，之后需要获得FLON币用于支付未来交易所需的Gas费。
 
-另外：FullOn公链测试网已经在2025年4月11日成功发布 (https://testnet.flonscan.network), 同时FullOn公链主网也即将在公链测试完毕之后完成发布，具体时间敬请期待！
+另外：FullOn公链测试网已经在2025年4月11日成功发布 [FullOn测试链](https://testnet.flonscan.network), 同时FullOn公链主网也即将在公链测试完毕之后完成发布，具体时间敬请期待！
 
 FullOn公链基金会
 2025-04-14
