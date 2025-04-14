@@ -8,7 +8,7 @@ In order to foster faster development of FullOn public chain community, the Full
 2. The $FLON tokens to support the free registration are all from the community airdrop allocation;
 3. There can be about 10 FLON transfers maximum without requiring extra gas fees with the free account registration, after which users would have to acuire more FLON tokens in order to pay gas fees in future transactions.
 
-P.S. FullOn Testnet has been successfuly launched in April 11, 2025 (https://testnet.flonscan.network), and the mainnet will be launched after thorough and successful testing of the testnet. Please stay tuned for the mainnet launch！
+P.S. FullOn Testnet has been successfuly launched in April 11, 2025 [FullOn Testnet](https://testnet.flonscan.io), and the mainnet will be launched after thorough and successful testing of the testnet. Please stay tuned for the mainnet launch！
 
 FullOn Foundation
 April 14 2025
