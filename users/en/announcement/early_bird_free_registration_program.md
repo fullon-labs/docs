@@ -18,9 +18,9 @@ As FullOn network supports abstract accounts that need to be registered on-chain
 
 ## Special notice
 
-```
-FullOn Testnet has been successfuly launched in April 11, 2025 [FullOn Testnet](https://testnet.flonscan.io), and the mainnet will be launched after thorough and successful testing of the testnet. Please stay tuned for the mainnet launch！
-```
+1. The FullOn Testnet has been successfuly launched in April 11, 2025 [FullOn Testnet](https://testnet.flonscan.io)
+2. The FullOn Mainnet will be launched after the thorough and successful testing of the testnet. Please stay tuned for the mainnet launch！
+
 
 FullOn Foundation
 April 14 2025

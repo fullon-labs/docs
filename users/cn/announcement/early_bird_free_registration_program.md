@@ -19,9 +19,8 @@
 
 ## 特别公告
 
-```
-FullOn公链测试网已经在2025年4月11日成功发布 [FullOn测试链](https://testnet.flonscan.io), 同时FullOn公链主网也即将在公链测试完毕之后完成发布，具体时间敬请期待！
-```
+1. FullOn公链测试网已经在2025年4月11日成功发布 [FullOn测试链](https://testnet.flonscan.io)
+2. FullOn公链主网也即将在公链测试完毕之后完成发布，具体时间敬请期待！
 
 FullOn公链基金会
 2025-04-14
